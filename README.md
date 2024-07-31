@@ -1,1 +1,3 @@
 # PropertyPrice
+
+Abstract: For most people, buying a house is deemed to be done at some point in life. It is easy to understand that the sale price is largely determined by basic information such as the number of bedrooms and toilets. However, the relationship between other equally important parameters, such as material of the house exterior, zone of the house, are less clear. Hence, we would like to examine these relationships, accounting for required assumptions, using appropriate tests and regression models. Ultimately, we would like to predict the house price given basic information about the house.
